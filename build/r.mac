@@ -1,0 +1,16 @@
+#/process/optical/scintillation/setFiniteRiseTime true
+
+/run/initialize
+
+#/gun/particle gamma 
+/gun/particle alpha 
+#/gun/energy 10 GeV
+/gun/energy 0.005 MeV
+/gun/direction 0 1 0
+#/gun/position 0.0 0.4 0.0 m
+/gun/position 0. 0. 0. cm
+
+/run/beamOn 10000
+#/run/beamOn 1
+
+

@@ -1,0 +1,4 @@
+cd build 
+cmake .. (only first build)
+make clean
+make

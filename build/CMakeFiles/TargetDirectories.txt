@@ -1,0 +1,7 @@
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/TestEm4.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/edit_cache.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/rebuild_cache.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/list_install_components.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/install.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/install/local.dir
+/home/tbui/G4SimDetectorBox-main/build/CMakeFiles/install/strip.dir
